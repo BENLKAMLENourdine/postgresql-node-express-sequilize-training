@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "homestead",
+    "password": "secret",
+    "database": "items-todo",
+    "host": "127.0.0.1",
+    "port": "54320",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "homestead",
+    "password": "secret",
+    "database": "items-todo",
+    "host": "127.0.0.1",
+    "port": "54320",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "homestead",
+    "password": "secret",
+    "database": "items-todo",
+    "host": "127.0.0.1",
+    "port": "54320",
+    "dialect": "postgres"
+  }
+}
